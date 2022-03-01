@@ -1,0 +1,34 @@
+Syntax
+    {} object
+    ... rest operator
+    
+
+
+Install nodejs
+Go to terminal
+Type node-v
+Then npx create-react-app (filename)
+And npm start
+
+pag na error ha terminal an *npm start*
+type cd (filename)
+then npm start
+
+*unique key error "key" proop
+    go to terminal
+    type cd .\ (filename)\
+    then npm i uuidv4
+
+REACT CONCEPTS
+    HOOK 
+    STATE
+    FUNCTION COMPONENTS
+    STYLE
+    REACT JXS
+
+    ROUTES
+        package react router dome (to redirect to different routes)
+        go to terminal
+        type npm install react-router-dom --save
+
+    
